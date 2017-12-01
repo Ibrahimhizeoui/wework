@@ -1,0 +1,18 @@
+#client,#employee{
+	color: #fff;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-weight: 600;
+    text-transform: capitalize;
+    border: #ee4b28 solid 2px;
+}
+#client:hover{
+	color: #ee4b28;
+}
+#employee{
+	color:#222;
+	border: #222 solid 2px;
+}
+
